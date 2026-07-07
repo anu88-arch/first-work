@@ -8,9 +8,10 @@ This repository marks the beginning of my GitHub
 -learning basic Git
 -build and upload projects
 
-# Projects (using python)
+# Projects (Python)
 -Hello GitHub program
 -Basic calculator
+-to-do list
 
 
 
